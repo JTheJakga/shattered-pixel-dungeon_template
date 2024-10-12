@@ -13,11 +13,11 @@ buildscript {
 allprojects {
 
     ext {
-        appName = 'Shattered Pixel Dungeon'
-        appPackageName = 'com.shatteredpixel.shatteredpixeldungeon'
+        appName = 'Kamen Rider Dungeon'
+        appPackageName = 'com.riderdungeon.kamenriderdungeon'
 
-        appVersionCode = 768
-        appVersionName = '2.3.2'
+        appVersionCode = 802
+        appVersionName = 'beta_0.0.1'
 
         appJavaCompatibility = JavaVersion.VERSION_1_8
 
